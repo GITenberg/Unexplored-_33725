@@ -1,0 +1,38 @@
+_repo: Unexplored-_33725
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dresser, William
+    aliases:
+    - Dresser, William Van
+    - Dresser, William T. Van
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '33935'
+    url: http://www.gutenberg.org/2009/agents/33935
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chaffee, Allen
+    gutenberg_agent_id: '36559'
+    url: http://www.gutenberg.org/2009/agents/36559
+description: ''
+gutenberg_issued: '2010-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sierra Nevada (Calif. and Nev.) -- Juvenile fiction'
+- !lcsh 'Forest fires -- Juvenile fiction'
+- !lcsh 'Geology -- Juvenile fiction'
+title: Unexplored!
+url: http://www.gutenberg.org/ebooks/33725
